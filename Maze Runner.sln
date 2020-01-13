@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze Runner.Plugins", "Maze Runner.Plugins.csproj", "{F75B7659-AF10-1247-1D46-37B2F54B2184}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze Runner", "Maze Runner.csproj", "{C5890CD7-5CB2-D6F4-3453-BD2735165340}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maze Runner.Editor", "Maze Runner.Editor.csproj", "{C362BA18-6809-554A-87B4-102D7418CC36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F75B7659-AF10-1247-1D46-37B2F54B2184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75B7659-AF10-1247-1D46-37B2F54B2184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75B7659-AF10-1247-1D46-37B2F54B2184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75B7659-AF10-1247-1D46-37B2F54B2184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5890CD7-5CB2-D6F4-3453-BD2735165340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5890CD7-5CB2-D6F4-3453-BD2735165340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5890CD7-5CB2-D6F4-3453-BD2735165340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5890CD7-5CB2-D6F4-3453-BD2735165340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C362BA18-6809-554A-87B4-102D7418CC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C362BA18-6809-554A-87B4-102D7418CC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C362BA18-6809-554A-87B4-102D7418CC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C362BA18-6809-554A-87B4-102D7418CC36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

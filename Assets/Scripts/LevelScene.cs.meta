@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: b7bd82b8974aa7348bb6d22c8de89ffd
+timeCreated: 1489401103
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pauseBackgroundTexture: {instanceID: 0}
+  - pause: {instanceID: 0}
+  - play: {instanceID: 0}
+  - cameraMoveUp: {instanceID: 0}
+  - cameraMoveLeft: {instanceID: 0}
+  - cameraMoveRight: {instanceID: 0}
+  - cameraMoveDown: {instanceID: 0}
+  - cameraMoveForward: {instanceID: 0}
+  - cameraMoveBack: {instanceID: 0}
+  - cameraRotateUp: {instanceID: 0}
+  - cameraRotateLeft: {instanceID: 0}
+  - cameraRotateRight: {instanceID: 0}
+  - cameraRotateDown: {instanceID: 0}
+  - playerMoveUp: {instanceID: 0}
+  - playerMoveLeft: {instanceID: 0}
+  - playerMoveRight: {instanceID: 0}
+  - playerMoveDown: {instanceID: 0}
+  - floor: {fileID: 141106, guid: 932bbe33754ab804a8f7b346ca5159c3, type: 2}
+  - wall: {fileID: 167538, guid: 615809e7de97df045a511b078b16dcdf, type: 2}
+  - runner: {fileID: 113348, guid: 54eb5844754051b40a918a84c33b7c1a, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
